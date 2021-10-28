@@ -12,7 +12,7 @@ namespace Soma
             //TESTE COMMIT
             Console.WriteLine("Calculadora de soma");
             Console.WriteLine("+++++++++++++++++++");
-
+            //TESTE COMMIT 2.0
             Console.WriteLine("Digite o valor da Variavel num1 e pressione enter");
             num1 = Convert.ToInt32(Console.ReadLine());
 
